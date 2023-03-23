@@ -21,12 +21,16 @@
   - Sometimes proposed better ways to achieve the objective from a perspective of a security engineer.
   - Sometimes blocks the project if there's unacceptable security issues.
 
-#### Tech Lead in Defence Force Team (2019/07 - )
+#### Tech Lead in Defence Force Team (2019/07 - 2022/07)
 
 - Launched new team which contributes to security UX in product development department, not in security team.
 - Designed and implemented 2FA on Mercari.
 - Designed and implemented other several security features on Mercari.
 - Started the privacy first company concept and contributing projects related to user privacy.
+
+#### TnS Engineering Strategist (2022/08 ~ )
+
+To be added.
 
 ## Education
 
