@@ -8,5 +8,5 @@
 ## Contacts
 
 - [GitHub](https://github.com/yagihash)
-- [Twitter](https://twitter.com/yagihashoo)
+- [X](https://x.com/yagihashoo)
 - [Facebook](https://www.facebook.com/yagihashoo/)
