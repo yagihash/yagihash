@@ -3,7 +3,7 @@
 - Name: 八木橋 優
 - Year of Birth: 1992
 - Expertise: Product Security, Risk Management, Fraud Prevention
-- Language: Japanese (Native), English (CEFR B1)
+- Language: Japanese (Native), English (CEFR B2 Low)
 
 ## Work Experience
 
