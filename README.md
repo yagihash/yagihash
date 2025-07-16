@@ -44,7 +44,7 @@ In-house のセキュリティチームの立ち上げメンバーのひとり�
 
 #### TnS Engineering Strategy (2022/08 - 2023/10)
 
-Defence Force としての活動が一段落したことを機に不正対策などを TnS(Trust and Safety)に異動し、不正リスクの評価や対策立案などに携わった。
+Defence Force としての活動が一段落したことを機に不正対策などをおこなう TnS(Trust and Safety)に異動し、不正リスクの評価や対策立案などに携わった。
 
 #### TnS Risk Management (2023/11 - )
 
