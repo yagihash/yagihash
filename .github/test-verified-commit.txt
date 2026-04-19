@@ -1,0 +1,2 @@
+This file is used to test verified commit functionality in gh-infra.
+Updated to trigger CI run (3).
