@@ -1,0 +1,1 @@
+This file is used to test verified commit functionality in gh-infra.
